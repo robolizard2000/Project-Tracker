@@ -1,0 +1,5 @@
+theme:blue
+scale:100%
+appearance:System
+start_up_x:800
+start_up_y:500
